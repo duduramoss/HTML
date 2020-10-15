@@ -1,0 +1,20 @@
+.artigo{
+    max-width: 40em;
+    padding: 0 12px;
+    margin: auto;
+}
+p{
+    font-family: sans-serif , 'Times New Roman', Times, serif;
+    font-size: 100%;
+    color: #202122;
+
+}
+.titulotabela{
+    border-style: double;
+    border: #eaecf0;
+    background-color: #eaecf0;  
+}
+.codigo{
+    padding: .2em .5em ;
+    border: 1px solid #c8ccd1;
+}
