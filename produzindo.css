@@ -1,0 +1,77 @@
+.cabecalho{
+    border-color: darkgreen 10px;
+    font-size: 15px;
+    color: #132d45;;
+    background-color: rgba(18, 252, 174, 0.966);
+    margin: auto;   
+    text-align: center;
+    padding: 12px 24px;
+}
+.cabecalhoconteudo {
+    margin: auto;
+    max-width: 40em;
+    
+}
+.logofigura {
+    margin: 0;
+    font-family: serif;
+    display: flex;
+    align-items: center;
+
+}
+.logonome {
+    margin: 0 12px;
+    font-family: 'IM Fell English', serif;
+    font-size: 20px;
+}
+.exemple{
+    font-family: 'Chilanka', cursive;
+    width: 25%;
+    height: 150px;  
+}
+.example-item{
+    width: 25%;
+    height: 15px;
+    display: inline-block;
+}
+.example-item_first {
+    background-color: #FAA116;
+    word-spacing: 2px;
+    font-size: 100%;
+    max-width: 100%;
+    margin: auto;
+    width: 10rem;
+    height: 100%;
+}
+.example-item_second {
+    background-color: #57C7C3;
+    word-spacing: 2px;
+    font-size: 100%;
+    max-width: 100%;
+    margin: auto;
+    width: 10rem;
+    height: 100%;
+}
+.example-item_third {
+    background-color :  rgb(0, 255, 64);
+    word-spacing: 2px;
+    font-size: 100%;
+    max-width: 100em;
+    margin: auto;
+    width: 10rem;
+    height: 100%;
+}
+footer{
+    border-color: darkgreen 10px;
+    font-size: 15px;
+    color: #132d45;;
+    background-color: rgba(18, 252, 174, 0.966);
+    margin: auto;   
+    text-align: center;
+    padding: 12px 24px;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
